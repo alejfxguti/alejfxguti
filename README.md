@@ -1,59 +1,63 @@
 # Alejandro Gutierrez, MPH
-*Sunnyvale, California • +1-508-237-8281 • [Email](mailto:alej.fx.guti@gmail.com) • [LinkedIn](https://www.linkedin.com/in/alej-fx-gutierrez/) • [GitHub](https://github.com/alejfxguti)*
+*Sunnyvale, California • [View My Resume (PDF)](https://github.com/yourusername/yourrepository/raw/main/your-resume.pdf)
+ • [Email](mailto:alej.fx.guti@gmail.com) • [LinkedIn](https://www.linkedin.com/in/alej-fx-gutierrez/) • [GitHub](https://github.com/alejfxguti)*
 
 ## Summary
 Data-driven Digital Health technologist with 3.5+ years of startup experience in customer success, implementations, and product management/research. UC Berkeley Data Analytics boot camp certified. Strong educational background in public health with expertise in behavioral science, program development, and epidemiology research. Seeking a role to leverage analytical skills, relationship-building strengths, and a continuous learning mindset to improve population-level outcomes.
 
-## Professional Experience
-### Stealth Startup (Part-Time)
-**Early Stage Product & Growth Contractor** | Aug 2023 - Present
-- Drive product roadmap planning, feature prioritization, and market analysis for a new social media platform.
-- Develop growth strategies, create engaging content, and optimize user onboarding.
-- Conduct user research, A/B tests, and data analysis to inform product enhancements.
-
-### UC Berkeley Data Analytics Boot Camp (Part-Time)
-**Data Analytics Boot Camp Graduate** | Feb 2023 - Aug 2023
-- Completed a rigorous 24-week program, gaining skills in Python, SQL, Tableau, and more.
-- Successfully completed real-world projects using diverse industry datasets.
-- Achieved Certificate of Completion from UC Berkeley Extension with an A final grade.
-
-### Activate Care, Boston, MA (Full-Time)
-**Product & Market Researcher (Product Team)** | Jan 2022 - Dec 2022
-- Collected and analyzed multi-source data to create detailed customer market research reports.
-- Collaborated with product and marketing teams to create data-driven content.
-- Developed competitive analysis reports and acted as a subject matter expert.
-
-**Product Analyst** | Nov 2020 - Dec 2021
-- Streamlined communication and drove successful product roadmap initiatives.
-- Utilized data analysis to improve product features and user experience.
-- Spearheaded user flow improvements and automation upgrades.
-
-**Customer Success Lead / Product Specialist** | May 2019 - Oct 2020
-- Led customer support and success teams with a focus on high CSAT scores.
-- Managed support system administration and acted as a product expert.
-- Collaborated with cross-functional teams and reduced support costs.
-
 ## Education
+**UC Berkeley Extension**
+*Data Analytics Bootcamp* Feb - Aug 2023
+
 **Saint Louis University, St. Louis, MO**
 *Master of Public Health - Behavioral Science & Health Education* | 2018
 
 **Saint Louis University, St. Louis, MO**
 *Bachelor of Science - Public Health, Pre-Medical Studies* | 2017
 
-## Skills
-### Technical Skills
-- Python (Pandas, NumPy, Scikit-Learn)
-- SQL, Tableau, Excel, ETL
-- Quantitative & qualitative analysis
-- A/B testing, data visualization
-- Agile, Scrum, Product Management Lifecycle
+## Technical Skills
 
-### Soft Skills
-- Emotional Intelligence
-- Effective verbal and written communication
-- Strong collaboration
-- Ability to work independently and cross-functionally
-- Customer Relationship Management (CRM)
+### Data Analysis and Visualization
+
+- Proficient in Python (Pandas, NumPy, Scikit-Learn) for data manipulation and analysis.
+- Experienced in SQL for data querying and database management.
+- Skilled in Tableau for creating impactful data visualizations and dashboards.
+- Advanced Excel user for data analysis and reporting.
+
+### Data-driven Decision-Making
+
+- A/B testing and data-driven experimentation to inform product enhancements.
+- Quantitative and qualitative analysis of user behavior and market trends.
+- Expertise in ETL (Extract, Transform, Load) processes for data integration.
+
+### Product Management and Development
+
+- Strong understanding of Agile and Scrum methodologies.
+- Proven experience in driving product roadmap initiatives.
+- Product lifecycle management, from ideation to implementation.
+
+### Healthcare Expertise
+
+- Background in public health with expertise in behavioral science.
+- Knowledge of healthcare systems, care models, and program development.
+- Experience in market research for healthcare organizations and plans.
+
+## Soft Skills
+
+- **Emotional Intelligence:** Exceptional ability to understand and empathize with customer needs in the sensitive field of healthcare technology.
+
+- **Effective Communication:** Strong verbal and written communication skills for collaborating with cross-functional teams and presenting data-driven insights.
+
+- **Collaboration:** Proven track record of successfully working with multiple teams, including product, marketing, and customer support, to deliver impactful solutions.
+
+- **Customer Relationship Management (CRM):**
+  - Led customer support and success teams with a remarkable average CSAT score of 95%.
+  - Demonstrated ability to establish rapport with key customers, ensuring high retention rates.
+
+- **Adaptability and Continuous Learning:** Demonstrated ability to quickly adapt to new technologies and changing priorities, as well as a commitment to ongoing learning.
+
+## Projects
+- Disease Diagnoser: An interactive flask application that predicts possible disease diagnoses based on user-input symptoms. It utilizes machine learning models trained on a dataset of symptoms and corresponding diseases. [DiseaseDiagnoser GitHub Repository](https://github.com/alejfxguti)
 
 
 <!---
