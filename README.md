@@ -1,6 +1,5 @@
 # Alejandro Gutierrez, MPH
-*Sunnyvale, California • [View My Resume (PDF)](https://github.com/alejfxguti/alejfxguti/Alejandro_Gutierrez_Resume_DigHlth.pdf) 
- • [Email](mailto:alej.fx.guti@gmail.com) • [LinkedIn](https://www.linkedin.com/in/alej-fx-gutierrez/) • [GitHub](https://github.com/alejfxguti)*
+*Sunnyvale, California • [View My Resume (PDF)](https://github.com/alejfxguti/alejfxguti/blob/be8c0f56bfea1e5e86da732946211b18df663b9c/Alejandro_Gutierrez_Resume_DigHlth.pdf) • [Email](mailto:alej.fx.guti@gmail.com) • [LinkedIn](https://www.linkedin.com/in/alej-fx-gutierrez/) • [GitHub](https://github.com/alejfxguti)*
 
 ## Summary
 Data-driven Digital Health technologist with 3.5+ years of startup experience in customer success, implementations, and product management/research. UC Berkeley Data Analytics boot camp certified. Strong educational background in public health with expertise in behavioral science, program development, and epidemiology research. Seeking a role to leverage analytical skills, relationship-building strengths, and a continuous learning mindset to improve population-level outcomes.
