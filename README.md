@@ -1,5 +1,5 @@
 # Alejandro Gutierrez, MPH
-*Sunnyvale, California • [View My Resume (PDF)](https://github.com/yourusername/yourrepository/raw/main/your-resume.pdf)
+*Sunnyvale, California • [View My Resume (PDF)](https://github.com/aljfxguti/alejfxguti/Alejandro_Gutierrez_Resume_DigHlth.pdf) 
  • [Email](mailto:alej.fx.guti@gmail.com) • [LinkedIn](https://www.linkedin.com/in/alej-fx-gutierrez/) • [GitHub](https://github.com/alejfxguti)*
 
 ## Summary
@@ -57,7 +57,7 @@ Data-driven Digital Health technologist with 3.5+ years of startup experience in
 - **Adaptability and Continuous Learning:** Demonstrated ability to quickly adapt to new technologies and changing priorities, as well as a commitment to ongoing learning.
 
 ## Projects
-- Disease Diagnoser: An interactive flask application that predicts possible disease diagnoses based on user-input symptoms. It utilizes machine learning models trained on a dataset of symptoms and corresponding diseases. [DiseaseDiagnoser GitHub Repository](https://github.com/alejfxguti)
+- DiseaseDiagnoser: An interactive flask application that predicts possible disease diagnoses based on user-input symptoms. It utilizes machine learning models trained on a dataset of symptoms and corresponding diseases. [DiseaseDiagnoser GitHub Repository](https://github.com/alejfxguti/DiseaseDiagnoser)
 
 
 <!---
