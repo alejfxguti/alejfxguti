@@ -1,5 +1,5 @@
 # Alejandro Gutierrez, MPH
-*Sunnyvale, California • [View My Resume (PDF)](https://github.com/aljfxguti/alejfxguti/Alejandro_Gutierrez_Resume_DigHlth.pdf) 
+*Sunnyvale, California • [View My Resume (PDF)](https://github.com/alejfxguti/alejfxguti/Alejandro_Gutierrez_Resume_DigHlth.pdf) 
  • [Email](mailto:alej.fx.guti@gmail.com) • [LinkedIn](https://www.linkedin.com/in/alej-fx-gutierrez/) • [GitHub](https://github.com/alejfxguti)*
 
 ## Summary
