@@ -27,7 +27,7 @@ Data-driven Digital Health technologist with 3.5+ years of startup experience in
 
 - A/B testing and data-driven experimentation to inform product enhancements.
 - Quantitative and qualitative analysis of user behavior and market trends.
-- Expertise in ETL (Extract, Transform, Load) processes for data integration.
+- Proficient in ETL (Extract, Transform, Load) processes for data integration.
 
 ### Product Management and Development
 
