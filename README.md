@@ -2,7 +2,7 @@
 *Sunnyvale, California • [View My Resume](https://excellent-veil-e39.notion.site/Alejandro-Guti-rrez-MPH-7211c39b49ed4f35aca5db655010e974) • [Email](mailto:alej.fx.guti@gmail.com) • [LinkedIn](https://www.linkedin.com/in/alej-fx-gutierrez/) • [GitHub](https://github.com/alejfxguti)*
 
 ## Summary
-Data-driven Digital Health technologist with 3.5+ years of startup experience in customer success, implementations, and product management/research. UC Berkeley Data Analytics boot camp certified. Strong educational background in public health with expertise in behavioral science, program development, and epidemiology research. Seeking a role to leverage analytical skills, relationship-building strengths, and a continuous learning mindset to improve population-level outcomes.
+Public health technologist and data-driven product & growth specialist with 4+ years of startup experience in customer success, implementations, user research and product management. UC Berkeley Data Analytics certified. Recently started contracting at an early stage social media platform as a product manager and growth specialist, working as a strategic partner to the founding CEO. Leveraging analytical, relationship building, and continuous learning skills to drive product roadmap planning, feature prioritization, market analysis, and user research. Seeking a role to make data-driven decisions that improve population-level health behavior change.
 
 ## Education
 **UC Berkeley Extension**
