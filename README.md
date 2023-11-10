@@ -55,9 +55,36 @@ Public health technologist and data-driven product & growth specialist with 4+ y
 
 - **Adaptability and Continuous Learning:** Demonstrated ability to quickly adapt to new technologies and changing priorities, as well as a commitment to ongoing learning.
 
-## Projects
-- DiseaseDiagnoser: An interactive flask application that predicts possible disease diagnoses based on user-input symptoms. It utilizes machine learning models trained on a dataset of symptoms and corresponding diseases. [DiseaseDiagnoser GitHub Repository](https://github.com/alejfxguti/DiseaseDiagnoser)
+## Project 1: DiseaseDiagnoser
 
+DiseaseDiagnoser is an interactive Flask application designed to predict possible disease diagnoses based on user-input symptoms. The application leverages machine learning models trained on a dataset of symptoms and corresponding diseases, providing users with informative insights into potential health conditions.
+
+**GitHub Repository:**
+[DiseaseDiagnoser GitHub Repository](https://github.com/alejfxguti/DiseaseDiagnoser)
+
+## Project 2: FlightAhead
+
+FlightAhead is a collaborative project developed by Group 4 for Project 4. The team worked on predicting flight delays using a variety of machine learning models and presented the results in an interactive dashboard. The project utilized Gradient Boosted Trees, Neural Net Model, Logistic Regression, Random Forest Classifier, Random Forest Regressor, Decision Trees, and Keras Tuner.
+
+**GitHub Repository:**
+[FlightAhead GitHub Repository](https://github.com/shriparna/FlightAhead)
+
+### Tech Stack:
+
+- **ML Models:** Gradient Boosted Trees, Neural Net Model, Logistic Regression, Random Forest Classifier, Random Forest Regressor, Decision Trees, Keras Tuner
+- **API:** Python Flask
+- **Front-end:** HTML, CSS, JavaScript
+- **Visuals:** Tableau
+
+### Instructions:
+
+1. Use drop-downs to select Origin, Destination, Airline, Day of the Week, Time of the Day, and Season.
+2. Click the Predict button to check the probability of the flight being delayed or on-time.
+3. The plot displays routes with average arrival and departure delays from the top 5 origins to different destinations for the top 5 airlines.
+
+## Project 3: Giist.social
+
+As a strategic partner and part-time contractor for a stealth startup, I am actively contributing to the early-stage product and growth initiatives of [giist.social](https://giist.social/), a secure social media platform. Responsibilities include collaborating with the founding CEO on product management and growth strategies. I drive the product roadmap planning, prioritize features, and conduct market analysis to achieve optimal product-market fit. Additionally, I am developing growth strategies, creating compelling content, and optimizing onboarding processes to drive early user acquisition. User research, A/B testing, and data analysis inform iterative product enhancements, ensuring a clean, safe, and meaningful experience for Giist.social users.
 
 <!---
 alejfxguti/alejfxguti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
