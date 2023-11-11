@@ -82,9 +82,9 @@ FlightAhead is a collaborative project developed by Group 4 for Project 4. The t
 2. Click the Predict button to check the probability of the flight being delayed or on-time.
 3. The plot displays routes with average arrival and departure delays from the top 5 origins to different destinations for the top 5 airlines.
 
-## Project 3: Giist.social
+## Project 3: Stealth Social Media Startup
 
-As a strategic partner and part-time contractor for a stealth startup, I am actively contributing to the early-stage product and growth initiatives of [giist.social](https://giist.social/), a secure social media platform. Responsibilities include collaborating with the founding CEO on product management and growth strategies. I drive the product roadmap planning, prioritize features, and conduct market analysis to achieve optimal product-market fit. Additionally, I am developing growth strategies, creating compelling content, and optimizing onboarding processes to drive early user acquisition. User research, A/B testing, and data analysis inform iterative product enhancements, ensuring a clean, safe, and meaningful experience for Giist.social users.
+As a strategic partner and part-time contractor for a stealth startup, I am actively contributing to the early-stage product and growth initiatives of for a new safe, secure social media platform. Responsibilities include right hand to founding CEO leading product management and growth strategies. I drive the product roadmap planning, prioritize features, and conduct market analysis to achieve optimal product-market fit. Additionally, I am developing growth strategies, creating compelling content, and optimizing onboarding processes to drive early user acquisition. Also lead User research, A/B testing, and data analysis to inform iterative product enhancements, ensuring a clean, safe, and meaningful experience for platform users.
 
 <!---
 alejfxguti/alejfxguti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
